@@ -1,0 +1,4 @@
+﻿  Main.cpp
+g:\projects\pixel noise\pixel noise\main.cpp(76): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Pixel Noise.vcxproj -> G:\Projects\Pixel Noise\x64\Debug\Pixel Noise.exe
+  Pixel Noise.vcxproj -> G:\Projects\Pixel Noise\x64\Debug\Pixel Noise.pdb (Partial PDB)
