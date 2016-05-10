@@ -75,7 +75,7 @@ int main()
 
 			int N = hz * length;  // total number of samples
 			for (int n = 0; n < N; n++) {
-				double value = ((two_pi * n * frequency) / hz);
+				double value = sin((two_pi * n * frequency) / hz);
 				write_word(f, (int)(amplitude * value), 2);
 			}
 		}
